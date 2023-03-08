@@ -1,0 +1,2 @@
+# GeneralGit
+git-pull-all
